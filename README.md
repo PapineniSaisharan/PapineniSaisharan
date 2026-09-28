@@ -6,7 +6,7 @@
 <h3>AI/ML • Cybersecurity • Research</h3>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&pause=1000&color=C084FC&center=true&vCenter=true&width=760&height=45&lines=Machine+Learning+%7C+Deep+Learning+%7C+Cybersecurity;Explainable+AI+%7C+Threat+Detection+%7C+Research;Database+Engineering+%7C+Systems+%7C+Python;AI-driven+Security+Systems+%7C+Research+Direction" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&pause=1000&color=C084FC&center=true&vCenter=true&width=760&height=45&lines=Machine+Learning+%7C+Deep+Learning+%7C+Cybersecurity;Explainable+AI+%7C+Threat+Detection+%7C+Research;Database+Engineering+%7C+Systems+%7C+Python;AI-driven+Security+Systems+%7C+Research" alt="Typing animation"/>
 </a>
 
 <br>
@@ -100,6 +100,13 @@ I'm an **Associate Database Engineer at Mydbops** with a strong interest in movi
 
 `XAI` `Ensemble ML` `IIoT` `Darknet` `Threat Detection`
 
+IEEE 4th International Conference on Data, Decision and Systems (ICDDS 2025)<br>
+Published: 22 January 2026<br>
+DOI: [10.1109/ICDDS67737.2025.11344715](https://doi.org/10.1109/ICDDS67737.2025.11344715)<br>
+Datasets: `CIC-APT-IIoT-2024` · `CIC-Darknet2020`<br>
+Methods: `Machine Learning` · `Deep Learning` · `Ensemble Models` · `SHAP` · `LIME`<br>
+Reported results: `99%` accuracy on CIC-APT-IIoT-2024 · `98%` accuracy on CIC-Darknet2020
+
 </div>
 
 ---
@@ -155,11 +162,15 @@ I'm an **Associate Database Engineer at Mydbops** with a strong interest in movi
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws" />
 
+`AWS EC2` · `AWS RDS` · `AWS Aurora` · `Docker` · `Linux` · `Git` · `GitHub` · `Grafana`
+
 <br><br>
 
 ### 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+
+`MySQL` · `PostgreSQL` · `MongoDB` · `SQL` · `Query Optimization` · `Production Troubleshooting`
 
 <br><br>
 
