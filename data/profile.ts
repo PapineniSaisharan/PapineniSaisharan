@@ -5,5 +5,5 @@ export const profile = {
   summary: 'Computer Science Engineer with professional experience in database performance and production reliability, alongside hands-on work in Python, machine learning, and cybersecurity research. My work spans model development and evaluation, ensemble learning, and explainable AI with SHAP and LIME for threat detection across IIoT and Darknet environments.',
   direction: ['Database Engineering', 'Software Engineering', 'AI / ML', 'Cybersecurity', 'Research & Development'],
   github: 'https://github.com/PapineniSaisharan', linkedin: 'https://www.linkedin.com/in/papineni-sai-sharan-91275a34b/', kaggle: 'https://kaggle.com/hxrarkey',
-  resume: '/resume.pdf', siteUrl: process.env.SITE_URL || 'https://portfolio-1umb7teyi-papineni-saisharans-projects.vercel.app'
+  resume: '/resume.pdf', siteUrl: process.env.SITE_URL || 'https://portfolio-delta-three-8fd4ombmtz.vercel.app'
 };
