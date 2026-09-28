@@ -288,3 +288,16 @@ body{font-size:clamp(16px,1.15vw,18px);line-height:1.68}
  .matrix-row p{font-size:16px}
  .matrix-row .tags span{font-size:13px}
 }
+
+@media(min-width:761px) and (max-width:1050px){
+ .pipeline{grid-template-columns:repeat(4,minmax(0,1fr))}
+ .security-path{grid-template-columns:repeat(4,minmax(0,1fr))}
+ .education-path{grid-template-columns:repeat(3,minmax(0,1fr))}
+}
+
+@media(max-width:760px){
+ .email-link{display:inline-block;max-width:100%;overflow-wrap:anywhere}
+}
+
+.pipeline-node{min-width:0;overflow:hidden}
+.pipeline-node b{overflow-wrap:anywhere}
