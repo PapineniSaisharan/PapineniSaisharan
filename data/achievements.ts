@@ -1,0 +1,1 @@
+export const achievements = [{ title: 'World Record Participant', event: 'Tyagaraja Aradhana Pancharatna Kritis, ICMDA', date: '07 January 2026', description: 'Participated in the world record-setting rendition of the Pancharatna Kritis of Saint Tyagaraja.' }];
