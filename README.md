@@ -6,7 +6,7 @@
 <h3>AI/ML • Cybersecurity • Research</h3>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&pause=1000&color=C084FC&center=true&vCenter=true&width=760&height=45&lines=Machine+Learning+%7C+Deep+Learning+%7C+LLMs;RAG+%7C+AI+Agents+%7C+Explainable+AI;Cybersecurity+%7C+Threat+Detection+%7C+Ethical+Hacking;Researching+AI-driven+Security+Systems" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&pause=1000&color=C084FC&center=true&vCenter=true&width=760&height=45&lines=Machine+Learning+%7C+Deep+Learning+%7C+Cybersecurity;Explainable+AI+%7C+Threat+Detection+%7C+Research;Database+Engineering+%7C+Systems+%7C+Python;AI-driven+Security+Systems+%7C+Research+Direction" alt="Typing animation"/>
 </a>
 
 <br>
@@ -71,9 +71,9 @@
 
 ## 🧑‍💻 About Me
 
-I'm an **Associate Database Engineer at Mydbops** with a strong interest in moving deeper into **AI/ML, cybersecurity, and research**.
+I'm an **Associate Database Engineer at Mydbops** with a strong interest in moving deeper into **AI/ML, cybersecurity, and research**. My direction is **Database Engineering → Systems → AI/ML → Cybersecurity → Research**.
 
-- 🔭 Working as an **Associate Database Engineer**
+- 🔭 Working as an **Associate Database Engineer at Mydbops**, building production experience in database systems, performance, reliability, and troubleshooting
 - 🧠 Learning **ML, DL, LLMs, Generative AI, RAG and AI Agents**
 - 🔍 Exploring **XAI, Ensemble Learning and Zero-Shot Learning**
 - 🛡️ Learning **Ethical Hacking, Bug Bounty and Threat Detection**
@@ -89,6 +89,8 @@ I'm an **Associate Database Engineer at Mydbops** with a strong interest in movi
 ### 🛰️ Cross-Domain Threat Detection
 
 **XAI and Ensemble ML for IIoT and Darknet Scenarios**
+
+*Published research*
 
 <a href="https://github.com/PapineniSaisharan/Cross-Domain-Threat-Detection-XAI-and-Ensemble-ML-for-IIoT-and-Darknet-Scenarios">
 <img src="https://img.shields.io/badge/VIEW%20RESEARCH-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
@@ -111,6 +113,8 @@ I'm an **Associate Database Engineer at Mydbops** with a strong interest in movi
 **Zero-Shot IoT Malware Detection from Resource Telemetry**
 
 *Why It Breaks Across Architectures*
+
+*Current exploratory research direction*
 
 <br>
 
