@@ -4,11 +4,11 @@ import { profile } from '@/data/profile';
 
 export const metadata: Metadata = {
   metadataBase: new URL(profile.siteUrl),
-  title: 'Papineni Sai Sharan | Database Engineer · AI/ML · Cybersecurity',
-  description: 'Associate Database Engineer at Mydbops building production database performance and reliability experience toward AI/ML, cybersecurity, and research.',
+  title: 'Papineni Sai Sharan | Associate Database Engineer · AI/ML · Cybersecurity',
+  description: 'Papineni Sai Sharan is an Associate Database Engineer working across database systems, AI/ML, cybersecurity, and published research in cross-domain threat detection.',
   alternates: { canonical: '/' },
-  openGraph: { title: 'Papineni Sai Sharan | Database Engineer · AI/ML · Cybersecurity', description: profile.summary, type: 'website', url: profile.siteUrl, siteName: profile.name },
-  twitter: { card: 'summary', title: 'Papineni Sai Sharan | Database Engineer · AI/ML · Cybersecurity', description: 'Database engineering, AI/ML, cybersecurity, and research.' },
+  openGraph: { title: 'Papineni Sai Sharan | Associate Database Engineer · AI/ML · Cybersecurity', description: profile.summary, type: 'website', url: profile.siteUrl, siteName: profile.name },
+  twitter: { card: 'summary', title: 'Papineni Sai Sharan | Associate Database Engineer · AI/ML · Cybersecurity', description: 'Database engineering, AI/ML, cybersecurity, and published research.' },
   robots: { index: true, follow: true }
 };
 
