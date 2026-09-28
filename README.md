@@ -1,71 +1,115 @@
-<!-- ======================= HEADER ======================= -->
+<!--
+╔══════════════════════════════════════════════════════════════════════╗
+║  PAPINENI SAI SHARAN — AI / ML • CYBERSECURITY • RESEARCH          ║
+║  Professional anime-inspired / Haki-inspired GitHub profile        ║
+╚══════════════════════════════════════════════════════════════════════╝
+-->
+
+<!-- ========================= HAKI HEADER ========================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Papineni%20Sai%20Sharan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Cybersecurity%20%7C%20Research&descAlignY=58&descSize=18"/>
+<!-- Haki-inspired energy header: generated directly by the SVG service -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:050509,25:12091F,50:2B0A4A,72:090018,100:050509&text=PAPINENI%20SAI%20SHARAN&fontColor=FFFFFF&fontSize=40&fontAlignY=42&animation=fadeIn&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20CYBERSECURITY%20%7C%20RESEARCH&descSize=17&descAlignY=66&stroke=7B2CBF&strokeWidth=1"/>
 
 <br>
 
+<!-- Animated terminal-style identity -->
+
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=60&lines=AI%2FML+%26+Cybersecurity+Research+Enthusiast;Machine+Learning+%7C+Deep+Learning+%7C+XAI;Intrusion+Detection+%7C+Threat+Detection;Ethical+Hacking+%7C+Bug+Bounty;Building+AI-driven+Security+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=900&height=55&lines=AI%2FML+%26+Cybersecurity+Research+Enthusiast;Machine+Learning+%7C+Deep+Learning+%7C+LLMs+%7C+XAI;RAG+%7C+AI+Agents+%7C+Threat+Detection;Ethical+Hacking+%7C+Bug+Bounty+%7C+Security+Research;Building+Intelligent+Security+Systems" alt="Typing animation"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=papinenisaisharan&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=papinenisaisharan&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
-<!-- ======================= SOCIAL ======================= -->
+<!-- ========================= SOCIAL ========================= -->
 
 <div align="center">
 
 <a href="https://github.com/PapineniSaisharan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-050509?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
-
 <a href="https://linkedin.com/in/papineni">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
-
 <a href="https://kaggle.com/hxrarkey">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=FFFFFF"/>
 </a>
-
 <a href="https://instagram.com/saishxran">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
 </a>
-
 <a href="mailto:saisharanpapineni@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
 
 </div>
 
 <br>
 
-🧠 About Me
+<!-- ========================= PROFILE ========================= -->
 
-AI/ML + Cybersecurity Research Enthusiast
-Associate Database Engineer
-Research-oriented developer
-Interested in intelligent security systems
+⚡ Profile
+
+<div align="center">
+
+
+
+Focus
+
+🤖
+
+Artificial Intelligence & Machine Learning
+
+🧠
+
+LLMs • Generative AI • RAG • AI Agents
+
+🛡️
+
+Cybersecurity • Threat Detection • IDS
+
+🔬
+
+Explainable AI • Security Research
+
+☁️
+
+Cloud • Linux • Databases • Monitoring
+
+</div>
+
+🧑‍💻 About Me
+
+AI/ML + Cybersecurity Research Enthusiast with a background in database engineering and a growing focus on intelligent security systems.
 
 🔭 Currently working as an Associate Database Engineer at Mydbops
 
-🤖 Exploring Machine Learning, Deep Learning and Explainable AI
+🤖 Exploring Machine Learning, Deep Learning, LLMs and Generative AI
+
+🧠 Learning RAG, AI Agents, Transformers, NLP and Computer Vision
+
+🔍 Exploring Explainable AI, Ensemble Learning and Zero-Shot Learning
 
 🛡️ Learning Cybersecurity, Ethical Hacking and Bug Bounty
 
-🔐 Interested in Intrusion Detection and AI-driven Threat Detection
+🔐 Interested in Intrusion Detection, Malware Detection and AI-driven Threat Detection
 
-🧪 Interested in AI/ML research for cybersecurity
+🔬 Interested in applying AI/ML to real-world cybersecurity research
 
-🐍 Building practical projects using Python and ML frameworks
+🐍 Building practical systems using Python and modern ML frameworks
 
-📚 Continuously exploring research-oriented AI and security problems
+<!-- ========================= HAKI DIVIDER ========================= -->
 
-💡 Particularly interested in applying AI/ML to real-world cybersecurity challenges
+<div align="center">
+
+<img width="85%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient&customColorList=6,12,24,30,35,45,60,70,80,90"/>
+
+</div>
 
 🔬 Research & Collaboration
 
@@ -77,15 +121,13 @@ XAI and Ensemble ML for IIoT and Darknet Scenarios
 
 <a href="https://github.com/PapineniSaisharan/Cross-Domain-Threat-Detection-XAI-and-Ensemble-ML-for-IIoT-and-Darknet-Scenarios">
 
-<img src="https://img.shields.io/badge/Research%20Project-4285F4?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIEW%20RESEARCH%20REPOSITORY-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
 <br><br>
 
-Focus Areas
-
-Explainable AI • Ensemble Learning • IIoT Security • Darknet Traffic • Threat Detection
+Explainable AI  •  Ensemble Learning  •  IIoT Security  •  Darknet Traffic  •  Threat Detection
 
 </div>
 
@@ -101,21 +143,29 @@ and Why It Breaks Across Architectures
 
 <br>
 
-IoT Security Malware Detection Zero-Shot Learning Telemetry Cross-Architecture ML
+<img src="https://img.shields.io/badge/IoT%20Security-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Malware%20Detection-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Zero--Shot%20Learning-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Telemetry-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cross--Architecture%20ML-111827?style=for-the-badge"/>
 
 </div>
 
-🎯 Areas of Interest
+🎯 AI / ML & Cybersecurity Focus
 
 <div align="center">
 
 🤖 AI / ML
 
-🛡️ Cybersecurity
+🧠 GenAI
+
+🛡️ Security
 
 🔬 Research
 
 Machine Learning
+
+LLMs
 
 Ethical Hacking
 
@@ -123,35 +173,43 @@ Explainable AI
 
 Deep Learning
 
+Generative AI
+
 Bug Bounty
 
 Threat Detection
 
-Computer Vision
+NLP
 
-Network Security
-
-Security Research
-
-Ensemble Learning
+RAG
 
 Intrusion Detection
 
-AI for Cybersecurity
+Malware Detection
+
+Computer Vision
+
+AI Agents
+
+Network Security
 
 Zero-Shot Learning
 
+Ensemble Learning
+
+Transformers
+
 Malware Analysis
 
-Research Publications
+Security Research
 
 </div>
 
-🛠️ Tech Stack
+🛠️ Technology Stack
 
 <div align="center">
 
-🐍 Programming & AI
+🐍 Programming & ML
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv" />
 
@@ -170,7 +228,6 @@ Research Publications
 <img src="https://img.shields.io/badge/XAI-6C5CE7?style=for-the-badge&logo=ai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ensemble%20Learning-00897B?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Zero--Shot%20Learning-E91E63?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Model%20Evaluation-607D8B?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
 
 </div>
 
@@ -178,9 +235,9 @@ Research Publications
 
 <div align="center">
 
-💻 Development
+💻 Development & Systems
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,aws" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws" />
 
 </div>
 
@@ -198,7 +255,7 @@ Research Publications
 
 <div align="center">
 
-📊 Data & Monitoring
+📊 Data & Observability
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -206,27 +263,29 @@ Research Publications
 
 </div>
 
-🚀 Featured Projects
+🚀 Featured Research Project
 
 <div align="center">
 
 <a href="https://github.com/PapineniSaisharan/Cross-Domain-Threat-Detection-XAI-and-Ensemble-ML-for-IIoT-and-Darknet-Scenarios">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PapineniSaisharan&repo=Cross-Domain-Threat-Detection-XAI-and-Ensemble-ML-for-IIoT-and-Darknet-Scenarios&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/🔬%20Cross--Domain%20Threat%20Detection-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
-</div>
+<br><br>
+
+XAI + Ensemble ML for IIoT and Darknet Scenarios
 
 <br>
 
-👨‍💻 All my projects are available on GitHub.
+XAI • Ensemble ML • IIoT • Darknet • Cybersecurity
 
-<div align="center">
+<br><br>
 
 <a href="https://github.com/PapineniSaisharan?tab=repositories">
 
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/👨‍💻%20Explore%20All%20Repositories-050509?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -236,33 +295,13 @@ Research Publications
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=papinenisaisharan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=papinenisaisharan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=papinenisaisharan&layout=compact&theme=tokyonight&hide_border=true"/>
+<br><br>
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=papinenisaisharan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub statistics"/>
 
-<br>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com/?user=papinenisaisharan&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Papinenisaisharan/Papinenisaisharan/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
-📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=papinenisaisharan&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=papinenisaisharan&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages"/>
 
 </div>
 
@@ -270,19 +309,21 @@ Research Publications
 
 <div align="center">
 
-                    ┌──────────────────────────────┐
-                    │       AI + CYBERSECURITY     │
-                    └──────────────┬───────────────┘
-                                   │
-              ┌────────────────────┼────────────────────┐
-              │                    │                    │
-          🤖 AI / ML          🛡️ SECURITY          🔬 RESEARCH
-              │                    │                    │
-        Machine Learning      Ethical Hacking      Explainable AI
-        Deep Learning         Bug Bounty            Threat Detection
-        XAI                   Network Security       Malware Detection
-        Zero-Shot ML          Intrusion Detection    Security Research
-        NLP / CV              Malware Analysis       Publications
+                     ┌──────────────────────────────┐
+                     │     AI × CYBERSECURITY       │
+                     └──────────────┬───────────────┘
+                                    │
+             ┌──────────────────────┼──────────────────────┐
+             │                      │                      │
+         🤖 AI / ML              🛡️ SECURITY           🔬 RESEARCH
+             │                      │                      │
+       Machine Learning        Ethical Hacking       Explainable AI
+       Deep Learning           Bug Bounty             Threat Detection
+       LLMs                    Network Security       Malware Detection
+       RAG                     Intrusion Detection     Zero-Shot ML
+       AI Agents               Malware Analysis       Security Research
+       Transformers            Linux Security         AI for Cybersecurity
+       NLP / CV                Web Security           Publications
 
 </div>
 
@@ -290,15 +331,15 @@ Research Publications
 
 <div align="center">
 
-Machine Learning Deep Learning Explainable AI
+Machine Learning • Deep Learning • LLMs • Generative AI
 
-Cybersecurity Ethical Hacking Bug Bounty
+RAG • AI Agents • Transformers • Explainable AI
 
-Intrusion Detection Threat Detection
+Cybersecurity • Ethical Hacking • Bug Bounty
 
-Database Performance MySQL MongoDB PostgreSQL
+Intrusion Detection • Threat Detection • Malware Detection
 
-AI for Cybersecurity
+MySQL • MongoDB • PostgreSQL • Database Performance
 
 </div>
 
@@ -308,7 +349,7 @@ AI for Cybersecurity
 
 <a href="https://drive.google.com/file/d/1yaGkSC82lMq5Wr_q9VmV2ea-kgP3r-FV/view?usp=drive_link">
 
-<img src="https://img.shields.io/badge/📄%20View%20My%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+<img src="https://img.shields.io/badge/📄%20VIEW%20MY%20RESUME-6D28D9?style=for-the-badge&logo=googledrive&logoColor=white"/>
 
 </a>
 
@@ -329,15 +370,15 @@ I participated in a world record-setting rendition of Saint Tyagaraja's Panchara
 <div align="center">
 
 <a href="mailto:saisharanpapineni@gmail.com">
-
 <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
 
 <a href="https://linkedin.com/in/papineni">
-
 <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+<a href="https://github.com/PapineniSaisharan?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20My%20Work-050509?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -348,11 +389,8 @@ I participated in a world record-setting rendition of Saint Tyagaraja's Panchara
 
 ⚡ Building at the intersection of AI, Security & Research.
 
-</div>
-
 <br>
 
-<!-- ======================= FOOTER ======================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:050509,30:12091F,55:2B0A4A,80:090018,100:050509&animation=fadeIn"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
-
+</div>
