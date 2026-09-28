@@ -1,6 +1,7 @@
 <div align="center">
 
 <!-- Haki-inspired anime aura header -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=155&section=header&text=PAPINENI%20SAI%20SHARAN&fontSize=38&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&color=gradient&customColorList=6,12,24,30,35,45,60,70,80,90"/>
 
 <h3>AI/ML • Cybersecurity • Research</h3>
@@ -30,65 +31,78 @@
 
 </div>
 
----
-
-## ⚡ Profile
+⚡ Profile
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI / ML
+🤖 AI / ML
 
-- Machine Learning
-- Deep Learning
-- LLMs & Generative AI
-- RAG & AI Agents
-- NLP & Computer Vision
-- Transformers
-- Explainable AI
-- Ensemble & Zero-Shot Learning
+Machine Learning
+
+Deep Learning
+
+LLMs & Generative AI
+
+RAG & AI Agents
+
+NLP & Computer Vision
+
+Transformers
+
+Explainable AI
+
+Ensemble & Zero-Shot Learning
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ Cybersecurity
+🛡️ Cybersecurity
 
-- Threat Detection
-- Intrusion Detection
-- Malware Detection
-- Ethical Hacking
-- Bug Bounty
-- Network Security
-- Linux Security
-- AI for Cybersecurity
+Threat Detection
+
+Intrusion Detection
+
+Malware Detection
+
+Ethical Hacking
+
+Bug Bounty
+
+Network Security
+
+Linux Security
+
+AI for Cybersecurity
 
 </td>
 </tr>
 </table>
 
----
+🧑‍💻 About Me
 
-## 🧑‍💻 About Me
+I'm an Associate Database Engineer at Mydbops with a strong interest in moving deeper into AI/ML, cybersecurity, and research.
 
-I'm an **Associate Database Engineer at Mydbops** with a strong interest in moving deeper into **AI/ML, cybersecurity, and research**.
+🔭 Working as an Associate Database Engineer
 
-- 🔭 Working as an **Associate Database Engineer**
-- 🧠 Learning **ML, DL, LLMs, Generative AI, RAG and AI Agents**
-- 🔍 Exploring **XAI, Ensemble Learning and Zero-Shot Learning**
-- 🛡️ Learning **Ethical Hacking, Bug Bounty and Threat Detection**
-- 🔬 Interested in **AI-driven cybersecurity research**
-- 🐍 Building practical systems with **Python and modern ML frameworks**
+🧠 Learning ML, DL, LLMs, Generative AI, RAG and AI Agents
 
----
+🔍 Exploring XAI, Ensemble Learning and Zero-Shot Learning
 
-## 🔬 Research
+🛡️ Learning Ethical Hacking, Bug Bounty and Threat Detection
+
+🔬 Interested in AI-driven cybersecurity research
+
+🐍 Building practical systems with Python and modern ML frameworks
+
+🔬 Research
 
 <div align="center">
 
-### 🛰️ Cross-Domain Threat Detection
+🛰️ Cross-Domain Threat Detection
 
-**XAI and Ensemble ML for IIoT and Darknet Scenarios**
+XAI and Ensemble ML for IIoT and Darknet Scenarios
 
 <a href="https://github.com/PapineniSaisharan/Cross-Domain-Threat-Detection-XAI-and-Ensemble-ML-for-IIoT-and-Darknet-Scenarios">
 <img src="https://img.shields.io/badge/VIEW%20RESEARCH-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
@@ -96,21 +110,19 @@ I'm an **Associate Database Engineer at Mydbops** with a strong interest in movi
 
 <br><br>
 
-`XAI` `Ensemble ML` `IIoT` `Darknet` `Threat Detection`
+XAI Ensemble ML IIoT Darknet Threat Detection
 
 </div>
 
----
-
-## 🧪 Current Research
+🧪 Current Research
 
 <div align="center">
 
-### 🧬 Cross-Chip Malware Sense
+🧬 Cross-Chip Malware Sense
 
-**Zero-Shot IoT Malware Detection from Resource Telemetry**
+Zero-Shot IoT Malware Detection from Resource Telemetry
 
-*Why It Breaks Across Architectures*
+Why It Breaks Across Architectures
 
 <br>
 
@@ -122,13 +134,11 @@ I'm an **Associate Database Engineer at Mydbops** with a strong interest in movi
 
 </div>
 
----
-
-## 🛠️ Technology Stack
+🛠️ Technology Stack
 
 <div align="center">
 
-### 🐍 AI / ML
+🐍 AI / ML
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 
@@ -147,19 +157,19 @@ I'm an **Associate Database Engineer at Mydbops** with a strong interest in movi
 
 <br><br>
 
-### 💻 Systems & Development
+💻 Systems & Development
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws" />
 
 <br><br>
 
-### 🗄️ Databases
+🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 
 <br><br>
 
-### 📊 Data & Observability
+📊 Data & Observability
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -167,9 +177,7 @@ I'm an **Associate Database Engineer at Mydbops** with a strong interest in movi
 
 </div>
 
----
-
-## 🚀 Featured Project
+🚀 Featured Project
 
 <div align="center">
 
@@ -181,11 +189,11 @@ I'm an **Associate Database Engineer at Mydbops** with a strong interest in movi
 
 <br><br>
 
-**XAI + Ensemble ML for IIoT and Darknet Scenarios**
+XAI + Ensemble ML for IIoT and Darknet Scenarios
 
 <br>
 
-`Explainable AI` • `Ensemble Learning` • `IIoT Security` • `Darknet Traffic`
+Explainable AI • Ensemble Learning • IIoT Security • Darknet Traffic
 
 <br><br>
 
@@ -195,9 +203,7 @@ I'm an **Associate Database Engineer at Mydbops** with a strong interest in movi
 
 </div>
 
----
-
-## 📊 GitHub Activity
+📊 GitHub Activity
 
 <div align="center">
 
@@ -211,101 +217,95 @@ I'm an **Associate Database Engineer at Mydbops** with a strong interest in movi
 
 </div>
 
-> GitHub's native contribution calendar remains visible directly on the profile.
+GitHub's native contribution calendar remains visible directly on the profile.
 
----
-
-## 📚 Currently Learning
+📚 Currently Learning
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🤖 AI / ML
+🤖 AI / ML
 
-`LLMs`
+LLMs
 
-`Generative AI`
+Generative AI
 
-`RAG`
+RAG
 
-`AI Agents`
+AI Agents
 
-`Transformers`
+Transformers
 
-`NLP`
+NLP
 
-`Computer Vision`
+Computer Vision
 
-`XAI`
+XAI
 
-`Zero-Shot Learning`
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🛡️ Security
-
-`Ethical Hacking`
-
-`Bug Bounty`
-
-`Network Security`
-
-`Intrusion Detection`
-
-`Malware Analysis`
-
-`Threat Detection`
-
-`Linux Security`
+Zero-Shot Learning
 
 </td>
 
 <td width="33%" valign="top">
 
-### 🔬 Research
+🛡️ Security
 
-`AI for Cybersecurity`
+Ethical Hacking
 
-`Cross-Architecture ML`
+Bug Bounty
 
-`IoT Security`
+Network Security
 
-`Explainable Security`
+Intrusion Detection
 
-`Research Projects`
+Malware Analysis
 
-`Security Analytics`
+Threat Detection
 
-`Model Evaluation`
+Linux Security
+
+</td>
+
+<td width="33%" valign="top">
+
+🔬 Research
+
+AI for Cybersecurity
+
+Cross-Architecture ML
+
+IoT Security
+
+Explainable Security
+
+Research Projects
+
+Security Analytics
+
+Model Evaluation
 
 </td>
 </tr>
 </table>
 
----
-
-## 💬 Ask Me About
+💬 Ask Me About
 
 <div align="center">
 
-`Machine Learning` · `Deep Learning` · `LLMs` · `Generative AI`
+Machine Learning · Deep Learning · LLMs · Generative AI
 
-`RAG` · `AI Agents` · `Transformers` · `Explainable AI`
+RAG · AI Agents · Transformers · Explainable AI
 
-`Cybersecurity` · `Ethical Hacking` · `Bug Bounty`
+Cybersecurity · Ethical Hacking · Bug Bounty
 
-`Intrusion Detection` · `Threat Detection` · `Malware Detection`
+Intrusion Detection · Threat Detection · Malware Detection
 
-`MySQL` · `MongoDB` · `PostgreSQL` · `Database Performance`
+MySQL · MongoDB · PostgreSQL · Database Performance
 
 </div>
 
----
-
-## 📄 Resume
+📄 Resume
 
 <div align="center">
 
@@ -315,21 +315,17 @@ I'm an **Associate Database Engineer at Mydbops** with a strong interest in movi
 
 </div>
 
----
-
-## 🏆 Achievement
+🏆 Achievement
 
 <div align="center">
 
-### 🎶 Pancharatna Kritis — 2026
+🎶 Pancharatna Kritis — 2026
 
-Participated in a **world record-setting rendition of Saint Tyagaraja's Pancharatna Kritis in 2026.**
+Participated in a world record-setting rendition of Saint Tyagaraja's Pancharatna Kritis in 2026.
 
 </div>
 
----
-
-## 📫 Connect
+📫 Connect
 
 <div align="center">
 
@@ -350,4 +346,5 @@ Participated in a **world record-setting rendition of Saint Tyagaraja's Panchara
 </div>
 
 <!-- Haki-inspired footer -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=95&section=footer&color=gradient&customColorList=6,12,24,30,35,45,60,70,80,90"/>
