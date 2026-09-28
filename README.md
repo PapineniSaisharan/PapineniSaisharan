@@ -155,6 +155,23 @@ Research Publications
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv" />
 
+<br><br>
+
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=OpenAI&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative%20AI-8E44AD?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-0F9D58?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Agents-1F6FEB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-2B2B2B?style=for-the-badge&logo=graph&logoColor=white"/>
+<img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/XAI-6C5CE7?style=for-the-badge&logo=ai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ensemble%20Learning-00897B?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zero--Shot%20Learning-E91E63?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Model%20Evaluation-607D8B?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+
 </div>
 
 <br>
@@ -338,3 +355,4 @@ I participated in a world record-setting rendition of Saint Tyagaraja's Panchara
 <!-- ======================= FOOTER ======================= -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+
